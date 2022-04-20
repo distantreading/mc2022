@@ -1,2 +1,2 @@
-# mc2022
-MC 2022
+# eltec-slides
+Slideset describing ELTeC
